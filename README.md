@@ -36,9 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsf&show_icons=true&locale=en" alt="dsf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsf&" alt="dsf" /></p>
-
-
-<!---
-Kishangalgotra/Kishangalgotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
