@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kk845906@gmail.com**
 
-- ⚡ Fun fact **I think ,I am Coder**
+- ⚡Jo (One Piece is real)
 
 <h3 align="left">Connect with me: kk845906@gmail.com, +918360827353</h3>
 <p align="left">
