@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I think ,I am Coder**
 
-<h3 align="left">Connect with me: **kk845906@gmail.com**, **+918360827353**</h3>
+<h3 align="left">Connect with me: kk845906@gmail.com, +918360827353</h3>
 <p align="left">
 </p>
 
