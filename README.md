@@ -34,5 +34,5 @@
   </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sdafds"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="150" alt="sdafds" /></a></p><br>
+<p><a href="https://www.buymeacoffee.com/sdafds"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="110" alt="sdafds" /></a></p><br>
 
