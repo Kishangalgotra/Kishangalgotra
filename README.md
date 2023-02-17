@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Kaim Tutorial Spring boot project**
 
-- 🌱 Doing most of the projects having **Spring Boot MVC ,Java, Kotlin, MySql Database, Jenkins, ELK, AWS Integration, Basic Javascript**
+- 🌱 Doing most of the projects having **<<b>Spring Boot MVC ,Java, Kotlin, MySql Database, Jenkins, ELK, AWS Integration, Basic Javascript</b>>**
 
 - 👯 I can collaborate for **Spring Boot MVC and Android Projects** to learn more and add up more in my knowledge.
 
