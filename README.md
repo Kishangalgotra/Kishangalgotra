@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm @Kishangalgotra</h1>
 <h3 align="center">Spring boot and Android developer.</h3>
 
-- 🔭 I’m currently working on **Business Calculator**
+- 🔭 I’m currently working on **Kaim Tutorial Spring boot project**
 
-- 🌱 I’m currently learning **Sprng boot ,Kotlin,Dagger Hilt and Retrofit knowledge.**
+- 🌱 Doing most of the projects having **Spring Boot MVC ,Java, Kotlin, Jenkins, ELK, AWS Integration, Basic Javascript**
 
-- 👯 I’m looking to collaborate on **Spring Boot and Android Projects**
+- 👯 I’m looking to collaborate on **Spring Boot MVC and Android Projects**
 
 - 🤝 I’m looking for help with **My business Calculator and Tutorial Website**
 
-- 💬 Ask me about **Android and Spring Boot**
+- 💬 Ask me about **Spring Boot and Android**
 
 - 📫 How to reach me **kk845906@gmail.com**
 
