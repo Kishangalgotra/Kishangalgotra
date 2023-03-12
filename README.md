@@ -26,6 +26,3 @@
   </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
   </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sdafds"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="110" alt="sdafds" /></a></p><br>
-
