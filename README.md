@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm @Kishangalgotra</h1>
-<h3 align="center">Spring Boot MVC and Android Developer.</h3>
+<h3 align="center">Spring Boot Developer.</h3>
 
 - I’m currently working on **Kaim Tutorial Spring boot project**
 - My most of the projects involves **<<b>Spring Boot MVC ,Java, Kotlin, MySql Database, Jenkins, ELK, AWS Integration, Basic Javascript</b>>**
