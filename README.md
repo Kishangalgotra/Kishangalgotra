@@ -2,17 +2,10 @@
 <h1 align="center">Hi 👋, I'm @Kishangalgotra</h1>
 <h3 align="center">Spring Boot MVC and Android Developer.</h3>
 
-- 🔭 I’m currently working on **Kaim Tutorial Spring boot project**
-
-- 🌱 Doing most of the projects having **<<b>Spring Boot MVC ,Java, Kotlin, MySql Database, Jenkins, ELK, AWS Integration, Basic Javascript</b>>**
-
-- 👯 I can collaborate for **Spring Boot MVC and Android Projects** to learn more and add up more in my knowledge.
-
-- 🤝 Am looking for help with **Kaim Tutorial Website**
-
-- 💬 Ask me about **Spring Boot and Android**
-
-- 📫 How to reach me **kk845906@gmail.com**
+- I’m currently working on **Kaim Tutorial Spring boot project**
+- My most of the projects involves **<<b>Spring Boot MVC ,Java, Kotlin, MySql Database, Jenkins, ELK, AWS Integration, Basic Javascript</b>>**
+- I can collaborate for **Spring Boot MVC and Android Projects** to learn more.
+- Reach me **kk845906@gmail.com**
 
 - ⚡Jo (One Piece is real)
 
