@@ -7,7 +7,7 @@
 - I can collaborate for **Spring Boot MVC and Android Projects** to learn more.
 - Reach me **kk845906@gmail.com**
 
-- ⚡Jo (One Piece is real)
+- ⚡Yo (One Piece is real)
 
 <h3 align="left">Connect with me: kk845906@gmail.com, +918360827353</h3>
 <p align="left">
