@@ -9,7 +9,7 @@
 
 - ⚡Yo (One Piece is real)
 
-<h3 align="left">Connect with me: kk845906@gmail.com, +918360827353</h3>
+<a align="left">Connect with me: kk845906@gmail.com, +918360827353</a>
 <p align="left">
 </p>
 
