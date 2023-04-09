@@ -1,5 +1,5 @@
 
-<h2 align="left"> Name :Kishan Galgotra</h2>
+<h2 align="left">Kishan Galgotra</h2>
 <h3 align="left">Spring Boot Developer.</h3>
 
 - I’m currently working on **Kaim Tutorial Spring boot project**
