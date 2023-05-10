@@ -2,7 +2,7 @@
 <h2 align="left">Kishan Galgotra</h2>
 <h3 align="left">Spring Boot Developer.</h3>
 
-- I’m currently working on **Kaim Tutorial Spring boot project**
+- I’m currently working on **Kaim Freelance Spring boot project**
 - My most of the projects involves **<<b>Spring Boot MVC ,Java, Kotlin, MySql Database, Jenkins, ELK, AWS Integration, Basic Javascript</b>>**
 - I can collaborate for **Spring Boot MVC and Android Projects** to learn more.
 - Reach me **kk845906@gmail.com**
